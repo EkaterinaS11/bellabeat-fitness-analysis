@@ -68,12 +68,20 @@ Several new features were created to enrich the analysis:
 - Average daily steps: ~7,600 — below the 10,000-step HealthyDay benchmark
 - Users spend about 81% of tracked time (16.5 hours/day) sedentary
 - No significant difference in activity between weekdays and weekends
+  
+![Steps by Day of Week](images/bar%20chart%20(Steps%20by%20Day%20of%20Week).png)
+
+![How Users Spend Their Day](images/pie_chart_activity.png)
+
+![Steps vs Calories](images/scatter%20plot%20(Steps%20vs%20Calories).png)
 
 **Sleep quality**
 - Average sleep efficiency: ~91%
 - Some users show poor sleep quality with frequent awakenings
 - Only users with at least 3 tracked sleep sessions were included to avoid skewed results
 - Better sleep quality correlates with higher activity the next day
+  
+![Sleep Efficiency](images/sleep%20efficiency%20chart.png)  
 
 ---
 
